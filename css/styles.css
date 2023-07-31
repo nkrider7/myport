@@ -11639,7 +11639,7 @@ html {
   background-repeat: no-repeat;
   background-position: center;
 }
-@media (max-width: 375px) {
+@media (max-width: 420px) {
  .resume {
   background-size:contain;
   height: 600px;
